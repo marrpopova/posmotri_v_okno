@@ -40,7 +40,7 @@ ol {
 .content {
   margin: 135px auto 0px;
   display: flex;
-  align-items: flex-end;
+  align-items: end;
   max-width: 1140px;
   gap: 30px;
 }
