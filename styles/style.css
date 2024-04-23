@@ -38,10 +38,10 @@ ol {
 }
 
 .content {
-  margin: 135px auto;
+  margin: 135px auto 0px;
   display: flex;
-  align-items: end;
-  width: 1140px;
+  align-items: flex-end;
+  max-width: 1140px;
   gap: 30px;
 }
 
